@@ -1,2 +1,7 @@
-# demo-construcciones-j-l
-Demo web para Construcciones J&amp;L — diseñada por eterlab.
+# Construcciones J&L
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
